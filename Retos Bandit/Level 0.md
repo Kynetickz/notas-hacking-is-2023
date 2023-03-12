@@ -14,7 +14,7 @@ The goal of this level is for you to log into the game using SSH. The host to wh
  ```shell
   
   iniciar la consola y escribir   **ssh bandit.labs.overthewire.org -p 2220 -l bandit0
- contraseña: bandit0**
+ contraseña: bandit0
 ```
 
 ## Notas Adicionales
